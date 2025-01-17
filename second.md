@@ -1,1 +1,1 @@
-Another different way changing second file first line
+Here I change the second file first line
