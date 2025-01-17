@@ -1,1 +1,1 @@
-Second test file
+Another different way changing second file first line
