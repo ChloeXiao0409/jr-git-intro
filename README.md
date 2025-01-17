@@ -11,8 +11,8 @@ This repo is for the Git Ptactice Project:
 8.	Switch back to master branch, make a commit to change the first line of ‘second.md’ to something different to what you did in Step 7. Commit the change with the message “JR-105: Modify first line of second file in a different way”.
 9.	Merge branch bugfix/JR-104-fix-words-in-second-file into master. Resolve the conflicts to accept changes in the bugfix branch. 
 10.	Delete the bugfix branch and push the new commits in master to GitHub.
-11.	Check out branch feature/JR-106-create-home-page, add a new file ‘index.html’ with <h1>Home Page</h1> in the code. Commit the change with message “JR-106: Create the home page”
-12.	Check out master branch, add a new file ‘index.html’ with <h2>About</h2> in the code. Commit the change with message “JR-107: Create the about section”. Note this is to simulate changes made by your colleague. In your work, it’s rare that you will ever need to work in the master branch. Push the new commit to GitHub. 
+11.	Check out branch feature/JR-106-create-home-page, add a new file ‘index.html’ with Home Page in h1 in the code. Commit the change with message “JR-106: Create the home page”
+12.	Check out master branch, add a new file ‘index.html’ with About in h2 in the code. Commit the change with message “JR-107: Create the about section”. Note this is to simulate changes made by your colleague. In your work, it’s rare that you will ever need to work in the master branch. Push the new commit to GitHub. 
 13.	Push the new branch feature/JR-106-create-home-page to remote and make a pull request into master on GitHub. Make sure you write meaningful pull request title.
 14.	Use the git rebase to resolve merge conflicts and result in a fast-forward merge in the remote repository.
 15.	Merge the PR and delete the feature branch.
